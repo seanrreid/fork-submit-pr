@@ -4,6 +4,7 @@
 
 -   Fork this repo
 -   Create a branch
+-   Add your name to the HTML list
 -   Push that branch to _your_ fork
 -   Make a Pull Request against the `master` branch on this repo
 
